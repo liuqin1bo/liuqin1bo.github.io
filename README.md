@@ -45,13 +45,11 @@
 |28|Conjugate|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19| 20 |21|22|
 |29|Transpose Conjugate|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19| 20 |21|22|
 |31|Adjoint|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19| 20 |21|22|
-|32|Comparision|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19|$Comparision=$\<A\>=$(m_{i,j})=\|a_{i,i}\|,$ if $j=i$; $(m_{i,j})=-\|a_{i,j}\|$, if $i\neq j$ |21|22|
+|32|Comparision|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19|$Comparision=$\<A\>=<br>$(m_{i,j})=\vert a_{i,i}\vert,$ if $j=i$; <br>$(m_{i,j})=-\vert a_{i,j}\vert$, if $i\neq j$ |21|22|
 |33|Generalized Inverse|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19| 20 |21|22|
 |34|Tensor Products|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19| 20 |21|22|
-|35|Cross Result 1|1 |2 |3 |4 |5 |6 |The Schur Complement of an SDD matrix is again SDD. <font color=blue>1979, Carlson and Markham.[1]</font>|8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19| If $A$ is an H-Matrix, then \<A\> is a M-Matrix.|21|22|
+|35|Cross Result 1|1 |2 |3 |4 |5 |6 |The Schur Complement of an SDD matrix is again SDD. <br><font color=blue>1979, Carlson and Markham.[1]</font>|8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19| If $A$ is an H-Matrix, then \<A\> is a M-Matrix.|21|22|
 
 
 ## References
 [1] D. Carlson and T. Markham, Schur complements of diagonally dominant matrices, Czech. Math. J. 29(104), pp. 246–251, 1979.
-
-
