@@ -53,5 +53,5 @@
 
 
 ## References
-[1] [List of named matrices - Wikipedia](https://en.wikipedia.org/wiki/List_of_named_matrices)
+[1] [List of named matrices - Wikipedia](https://en.wikipedia.org/wiki/List_of_named_matrices)  
 [2] D. Carlson and T. Markham, Schur complements of diagonally dominant matrices, Czech. Math. J. 29(104), pp. 246–251, 1979.
