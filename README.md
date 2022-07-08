@@ -35,7 +35,7 @@
 |18|Polar Decomposition| | | | | | | | | | | | | | | | | | | |
 |19|Spectral Decomposition| | | | | | | | | | | | | | | | | | | |
 |20|QR Decomposition| | | | | | | | | | | | | | | | | | | |
-|21|Cholesky Factorization(M9)| | | | | | | | | | | | | | | | | | | |
+|21|Cholesky Factorization(M11)| | | | | | | | | | | | | | | | | | | |
 |22|Spectral norm| | | | | | | | | | | | | | | | | | | | |
 |23|Frobenius norm| | | | | | | | | | | | | | | | | | | | |
 |24|Submulticative norm| | | | | | | | | | | | | | | | | | | | |
