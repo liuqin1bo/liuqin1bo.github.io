@@ -54,7 +54,7 @@ $\mu(y) = e^{-\int \frac{\frac{\partial N}{\partial x} - \frac{\partial M}{\part
 ## 三、一阶线性微分方程的积分因子
 
 ### 1. 标准形式
-一阶线性微分方程的标准形式为：
+一阶线性微分方程的标准形式为:
 $y' + P(x)y = Q(x)$
 其积分因子 $\mu(x)$ 有通用公式：
 $\mu(x) = e^{\int P(x)dx}$
@@ -78,7 +78,7 @@ $\mu(x) = e^{\int P(x)dx}$
 1. **标准形式**：$y' + \frac{y}{x} = x^2$。
 2. **积分因子**：
    $\mu(x) = e^{\int \frac{1}{x}dx} = e^{\ln|x|} = |x|$
-   取 $\mu(x) = x$（$x > 0$ 时）。
+   取 $\mu(x) = x$ ($x > 0$ 时)。
 3. **乘以积分因子**：
    $xy' + y = x^3$
    左边可写为 $\frac{d}{dx}[xy]$，即：
